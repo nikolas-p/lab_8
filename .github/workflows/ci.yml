@@ -1,1 +1,5 @@
+name: acrion for pull request  main
 
+on:
+  pull_request:
+    branches: [ main ]
