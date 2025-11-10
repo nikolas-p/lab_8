@@ -20,4 +20,4 @@ jobs:
                         8.0.x
 
     - name: Build project
-      run: dotnet build proj.csproj
+      run: dotnet build proj/proj.csproj
